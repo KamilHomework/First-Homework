@@ -1,4 +1,3 @@
-Номер 3
 #include <iostream>
 using namespace std;
 int main(int argc, char *argv[])
