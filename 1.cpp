@@ -6,6 +6,7 @@ int main(int argc, char *argv[])
     int n;
     cin >> n;
     int a[n];
+    // int *a = new int[n];
     vector <int> ans; 
     ans.push_back(0);
     for (int i=0; i<n;i++){
