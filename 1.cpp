@@ -18,4 +18,5 @@ int main(int argc, char *argv[])
         if (ans[i]!=0)
             cout << ans[i] << " ";
     }
+    //delete [] a;
 }
