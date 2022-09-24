@@ -5,6 +5,7 @@ int main(int argc, char *argv[])
     int n;
     cin >> n;
     int a[n]; 
+    // int *a = new int[n];
     int t = n%2==0? n/2: (n/2)+1;
     for (int i=0; i<t;i++){
         cin >> a[i];
